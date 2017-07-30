@@ -1,5 +1,6 @@
 Advanced Analytics with Spark Source Code
 =========================================
+Tim: 增加自己写的机器学习的demo，在：my_MLlib_demos 目录里面，数据在：my_MLlib_demos\data目录里面。  
 
 Code to accompany [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do), by 
 [Sandy Ryza](https://github.com/sryza), [Uri Laserson](https://github.com/laserson), 
